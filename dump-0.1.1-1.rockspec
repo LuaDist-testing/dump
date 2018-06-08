@@ -1,16 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "dump"
-version = "0.1.0-1"
+version = "0.1.1-1"
 -- LuaDist source
 source = {
-  tag = "0.1.0-1",
+  tag = "0.1.1-1",
   url = "git://github.com/LuaDist-testing/dump.git"
 }
 -- Original source
 -- source = {
 --     url = "git://github.com/mah0x211/lua-dump.git",
---     tag = "v0.1.0"
+--     tag = "v0.1.1"
 -- }
 description = {
     summary = "stringified lua data structures, suitable for both printing and loading as chunk",
